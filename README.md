@@ -1,5 +1,5 @@
 # Agile Methodology vs SDLC Methodology
-
+ 
 By Vadim Tausendfreund
 
 ##Agenda
